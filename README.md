@@ -1,3 +1,5 @@
+# My name is Kevin Powers, a professional UAS pilot and full time employee at Shield AI where we are using AI to shape the future in a safer manner for service members, first respnders, and civilians.  I'm from Boston originally and was stationed in CA whe I joined the Marines.  I spent eight months in combat in the Helmand Province during 2012.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
